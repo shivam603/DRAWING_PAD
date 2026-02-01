@@ -24,8 +24,6 @@ Below is a screenshot showing the output of the drawing pad:
 
 [📷 View Screenshot](https://github.com/shivam603/DRAWING_PAD/blob/main/Screenshot%202026-02-01%20230820.png)
 
-Below is a screenshot showing the output of the E-COMMERCE SITE:
-[📷 View Screenshot](https://github.com/shivam603/DRAWING_PAD/blob/main/E-COMMERCE%20SCREENSHOT.png)
 
 ---
 
