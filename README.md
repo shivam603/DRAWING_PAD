@@ -1,42 +1,38 @@
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - Freehand drawing on canvas
-- Click and drag to draw
-- Clear canvas button
-- Clean and simple user interface
-- Beginner-friendly code structure
+- Mouse click and drag support
+- Clear canvas functionality
+- Simple and clean user interface
 
 ---
 
-## 🛠️ Technologies Used
+## 🎥 Demo Video
 
-- HTML5 (Canvas)
-- CSS3
-- JavaScript (Mouse Events)
+The following video shows the complete working of the drawing pad:
 
----
-
-## ▶️ How to Run the Project
-
-1. Download or clone the repository
-2. Open the `index.html` file in any modern web browser
-3. Press and hold the mouse button on the canvas
-4. Move the mouse to draw
-5. Click **Clear Canvas** to reset the drawing area
+[▶️ Watch Demo Video](https://github.com/shivam603/DRAWING_PAD/blob/main/DRAWING_PAD%20VIDEO.mp4)
 
 ---
 
-## 🧠 How It Works (Simple Explanation)
+## 🖼️ Output Screenshot
 
-- The HTML canvas is used as the drawing area
-- JavaScript listens to mouse events like:
-  - `mousedown` to start drawing
-  - `mousemove` to draw lines
-  - `mouseup` to stop drawing
-- The canvas context is used to draw continuous lines
+Below is a screenshot showing the output of the drawing pad:
+
+[📷 View Screenshot](https://github.com/shivam603/DRAWING_PAD/blob/main/Screenshot%202026-02-01%20230820.png)
+
+---
+
+## 🧠 How It Works
+
+- HTML canvas is used as the drawing area  
+- JavaScript listens to mouse events:
+  - Mouse down starts drawing
+  - Mouse move draws lines
+  - Mouse up stops drawing  
 
 ---
 
@@ -45,16 +41,7 @@
 - Understanding HTML canvas
 - Handling mouse events in JavaScript
 - Separating HTML and JavaScript files
-- Writing clean and readable code
-
----
-
-## 📌 Future Improvements
-
-- Add color selection
-- Add brush size control
-- Support touch devices
-- Save drawing as an image
+- Building a basic interactive web application
 
 ---
 
@@ -67,4 +54,4 @@ B.Tech CSE Student
 
 ## 📄 License
 
-This project is open-source and free to use for educational purposes.
+This project is created for educational purposes and is free to use.
