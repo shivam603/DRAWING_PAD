@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas Drawing</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", sans-serif;
+            background-color: #f4f6f8;
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 15px;
+            color: #222;
+        }
+
+        canvas {
+            border: 2px solid #222;
+            border-radius: 8px;
+            background-color: white;
+            cursor: crosshair;
+        }
+
+        button {
+            margin-top: 12px;
+            padding: 8px 16px;
+            font-size: 15px;
+            border: none;
+            border-radius: 6px;
+            background-color: #222;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #444;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Draw on the Canvas by pressing the mouse/touchpad button</h1>
+
+    <canvas id="board" width="1100" height="500"></canvas>
+    <br>
+
+    <button onclick="clearBoard()">Clear Canvas</button>
+
+    <script src="index.js"></script>
+
+</body>
+</html>
